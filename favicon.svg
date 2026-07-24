@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="hsl(45, 80%, 60%)" opacity="0.1"/><circle cx="32" cy="32" r="16" fill="hsl(45, 80%, 60%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>남해 다랭이마을 투어</title>
+  <rect width="64" height="64" rx="12" fill="hsl(238 49% 25%)"/>
+  <g transform="rotate(180 32 32)"><circle cx="32" cy="32" r="17" fill="none" stroke="hsl(238 24% 96%)" stroke-width="8"/><circle cx="32" cy="32" r="7" fill="hsl(54 68% 63%)"/></g>
+</svg>
