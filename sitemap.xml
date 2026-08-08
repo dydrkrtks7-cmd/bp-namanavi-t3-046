@@ -1,248 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://namhae-rice-terrace.namanavi.com/about.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/blog.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-1.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-2.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-3.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-4.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-5.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-4.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-5.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260704-194.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260705-989.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <loc>https://namhae-rice-terrace.namanavi.com/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260704-194.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260705-1244.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260705-989.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0222.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0223.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0224.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0225.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0226.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0227.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0228.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0229.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0230.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0231.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0232.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0233.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0234.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0235.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0236.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0237.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260719-0238.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0045.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0046.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0047.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0048.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0049.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0050.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0051.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0052.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0053.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0054.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://namhae-rice-terrace.namanavi.com/posts/gemini-coverage-20260722-0055.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://namhae-rice-terrace.namanavi.com/posts/post-5.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
